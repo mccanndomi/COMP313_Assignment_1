@@ -1,8 +1,12 @@
 # COMP313_Assignment_1
 Course Code: COMP313
+
 Name: Dominic McCann
+
 Assignment Number: 1
+
 Name of Game: Sky Runner
+
 Link to Video: https://drive.google.com/file/d/19c9CT-j9o1YMSrjDKI5MwYMC8ywd37gi/view?usp=sharing
 
 ## Game Description
