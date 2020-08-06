@@ -32,3 +32,7 @@ Another aspect that I really struggled with was the main menu. I struggled with 
 ### What was the most interesting part of your game?
 For me the most interesting part of my game was the procedurally generated course. My course runs on a tile basis. As the player moves past a tile a new one is spawned on the end of the course. There are 4 types of tiles, 2 of which have two subtypes, making it 6 types of tiles overall. With each tile having the possibility of spawning the course is unpredictable making it more enjoyable. The addition of the ramp tile makes it hard for the player to see what is ahead making the course more risky. 
 
+The main resources I used in this assignment:
+
+https://www.virtushub.com/
+Official Unreal youtube channel.
